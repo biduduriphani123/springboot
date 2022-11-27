@@ -1,0 +1,39 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hiiii",
+        "Halo",
+        "Hai",
+        "Hello"
+      ],
+      "responses": [
+        "Hi",
+        "Halo",
+        "Hai",
+        "Hello"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Terimakasih",
+        "Okay",
+        "Ok",
+        "Makasih",
+        "Makasih ya",
+        "Thanks"
+      ],
+      "responses": [
+       "Terimakasih",
+        "Okay",
+        "Ok",
+        "Makasih",
+        "Makasih ya",
+        "Thanks"
+      ]
+    }
+  ]
+}

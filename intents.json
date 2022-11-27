@@ -1,0 +1,39 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Halo",
+        "Hai",
+        "Hello"
+      ],
+      "responses": [
+        "Welcome to Chatbot",
+        "Halo",
+        "Hai",
+        "Hello"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Terimakasih",
+        "Okay",
+        "Ok",
+        "Makasih",
+        "Makasih ya",
+        "Thanks"
+      ],
+      "responses": [
+       "Terimakasih",
+        "Okay",
+        "Ok",
+        "Makasih",
+        "Makasih ya",
+        "Thanks"
+      ]
+    }
+  ]
+}
